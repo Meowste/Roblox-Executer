@@ -1,6 +1,6 @@
 ## Meowste's Executer
 ## About
-Incognito is a powerful Roblox script executor designed for enhancing your gameplay experience. With its user-friendly interface and robust support for executing Lua scripts, Incognito offers a wide range of automation features that can take your Roblox adventures to the next level. Please note that using Incognito may potentially violate Roblox's terms of service due to the nature of its functionality.
+This is a powerful Roblox script executor designed for enhancing your gameplay experience. With its user-friendly interface and robust support for executing Lua scripts, Incognito offers a wide range of automation features that can take your Roblox adventures to the next level. Please note that using Incognito may potentially violate Roblox's terms of service due to the nature of its functionality.
 
 ## Key Features
 - User-friendly interface
